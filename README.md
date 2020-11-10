@@ -66,7 +66,7 @@
 
 </details>
 
-[website]: https://akashsingh.cf
+[website]: https://www.akashsingh.cf/
 [twitter]: https://twitter.com/Akku_2410
 [instagram]: https://instagram.com/connectedakash2410
 [linkedin]: https://www.linkedin.com/in/akash-kumar-singh-2ab64217a/
