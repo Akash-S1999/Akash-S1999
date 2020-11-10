@@ -62,7 +62,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Akash-S1999)](https://github.com/anuraghazra/github-readme-stats)
+  [![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash-S1999)](https://github.com/Akash-S1999/github-readme-stats)
 </details>
 
 [website]: https://www.akashsingh.cf/
