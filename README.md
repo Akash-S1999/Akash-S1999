@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate with other open-source developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Supercars, there is nothing like an Aventador!
-<p>
+</p>
 
 ### Spotify Playing 🎧
 
