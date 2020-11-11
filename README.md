@@ -1,4 +1,6 @@
-### Hi there, I'm [Akash Singh][website] 👋
+<h1 align='center'>
+  Hi there 👋 I'm Akash Singh[website] 👨‍💻
+</h1>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Akku_2410?color=1DA1F2&label=FOLLOW%20Akash%20Singh&logo=Twitter&style=for-the-badge)
 <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white
