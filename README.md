@@ -74,8 +74,6 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-s1999&show_icons=true&locale=en&layout=compact" alt="akash-s1999" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-s1999&show_icons=true&locale=en&hide_border=true" alt="akash-s1999" /></p>
 
 [website]: https://www.akashsingh.cf/
