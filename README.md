@@ -75,9 +75,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-s1999&show_icons=true&locale=en&layout=compact" alt="akash-s1999" /></p>
-  
-
-/*<img align="left" alt="Akash's GitHub Stats" src="https://github-readme-stats.akash-s1999.vercel.app/api?username=Akash-S1999&show_icons=true&hide_border=true" />*/
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-s1999&show_icons=true&locale=en&hide_border=true" alt="akash-s1999" /></p>
 
