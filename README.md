@@ -27,6 +27,13 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Akash's Spotify Playing" width="350" />](https://open.spotify.com/user/v0i0s43n5xr7xzjta519yusti)
 
+<p align='center'>
+  💻 My workspace specs<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+ </p>
+
 ### Connect with me:
 
 [<img align="left" alt="akashsingh.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
