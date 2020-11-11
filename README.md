@@ -1,10 +1,19 @@
 <h1 align='center'>
-  Hi there 👋 I'm [Akash Singh][website] 👨‍💻
+  Hi there 👋 I'm Akash Singh 👨‍💻
 </h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Akku_2410?color=1DA1F2&label=FOLLOW%20Akash%20Singh&logo=Twitter&style=for-the-badge)
-<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white
-" />
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 
 ## I'm a Student and Developer !!
 
