@@ -74,7 +74,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-s1999&show_icons=true&locale=en&hide_border=true" alt="akash-s1999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.akash-s1999.vercel.app/api?username=akash-s1999&show_icons=true&locale=en&hide_border=true" alt="akash-s1999" /></p>
 
 [website]: https://www.akashsingh.cf/
 [twitter]: https://twitter.com/Akku_2410
