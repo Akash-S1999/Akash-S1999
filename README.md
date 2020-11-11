@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Akash-S1999.vercel.app/api/spotify-playing" alt="Akash's Spotify Playing" width="350" />](https://open.spotify.com/user/v0i0s43n5xr7xzjta519yusti)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Akash's Spotify Playing" width="350" />](https://open.spotify.com/user/v0i0s43n5xr7xzjta519yusti)
 
 ### Connect with me:
 
