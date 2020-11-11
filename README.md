@@ -34,6 +34,14 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a> hipsters and nerds come here ;)
 </p>
 
+ <p align='center'>
+  <h3><strong>Connect with me:</strong><h3>
+    [<img align="left" alt="akashsingh.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+    [<img align="left" alt="Akash_Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+    [<img align="left" alt="Akash_Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    [<img align="left" alt="Akash_Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ </p>
+
 ### Connect with me:
 
 [<img align="left" alt="akashsingh.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
