@@ -34,6 +34,8 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a> hipsters and nerds come here ;)
 </p>
 
+[![Spotify](https://spotify.akash-s1999.vercel.app/api/spotify)](https://open.spotify.com/user/v0i0s43n5xr7xzjta519yusti)
+
 ### Connect with me:
 
 [<img align="left" alt="akashsingh.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
