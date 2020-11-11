@@ -1,5 +1,6 @@
 ### Hi there, I'm [Akash Singh][website] 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Akku_2410?color=1DA1F2&label=FOLLOW%20Akash%20Singh&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student and Developer !!
 
