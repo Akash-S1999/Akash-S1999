@@ -12,6 +12,10 @@
   </a>&nbsp;&nbsp;
   
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Akash-S1999/count.svg" />
+</p>
 
 
 
