@@ -34,11 +34,12 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
  </p>
  
- <p align='center'>
+ 
+ <!--- <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a> hipsters and nerds come here ;)
-</p>
-
-
+</p> --->
+ 
+ 
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify.akash-s1999.vercel.app/api/spotify)](https://open.spotify.com/user/v0i0s43n5xr7xzjta519yusti)
