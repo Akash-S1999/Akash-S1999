@@ -88,4 +88,4 @@
 [instagram]: https://instagram.com/connectedakash2410
 [linkedin]: https://www.linkedin.com/in/akash-kumar-singh-2ab64217a/
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-S1999&" alt="dey24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-S1999&theme=chartreuse-dark" alt="Akash-S1999" /></p>
