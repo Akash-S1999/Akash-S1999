@@ -13,9 +13,6 @@
   
 </p>
 
-  ![](https://komarev.com/ghpvc/?username=Akash-S1999)
-
-
 ## I'm a Student and Developer !!
 
 - 🔭 I am a Web Developer and a Coding enthusiast
@@ -33,7 +30,7 @@
  
  
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a> hipsters and nerds come here ;)
+  <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a>
 </p>
  
  
