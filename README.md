@@ -13,10 +13,8 @@
   
 </p>
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Akash-S1999/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=Akash-S1999)
 </p>
-
 
 
 ## I'm a Student and Developer !!
