@@ -32,9 +32,9 @@
  </p>
  
  
- <!--- <p align='center'>
+<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a> hipsters and nerds come here ;)
-</p> --->
+</p>
  
  
 ### Spotify Playing 🎧
