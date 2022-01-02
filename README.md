@@ -12,9 +12,8 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<p align="center"> 
+
   ![](https://komarev.com/ghpvc/?username=Akash-S1999)
-</p>
 
 
 ## I'm a Student and Developer !!
