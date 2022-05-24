@@ -2,10 +2,6 @@
   Hi there 👋 I'm Akash Singh 👨‍💻
 </h1>
 
-<div>
-  <a href="https://app.daily.dev/akkuishere"><img src="https://api.daily.dev/devcards/5eae8f7dcae844ea8dfd156624e08e82.png?r=wxo" width="400" alt="Akash Singh's Dev Card"/></a>
- </div>
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/akash-kumar-singh-2ab64217a/">
