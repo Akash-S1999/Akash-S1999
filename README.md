@@ -31,9 +31,7 @@
  </p>
  
  
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Akash-S1999/Akash-S1999"></a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunil531999&label=Profile%20views&color=0e75b6&style=flat" alt="sunil531999" /> </p>
  
  
 ### Spotify Playing 🎧
