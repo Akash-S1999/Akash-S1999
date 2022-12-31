@@ -21,7 +21,7 @@
 - 🔭 I am a Web Developer and a Coding enthusiast
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other open-source developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Supercars, there is nothing like an Aventador!
 
 <a href="https://app.daily.dev/akkuishere"><img src="https://api.daily.dev/devcards/5eae8f7dcae844ea8dfd156624e08e82.png?r=wxo" width="400" alt="Akash Singh's Dev Card"/></a>
